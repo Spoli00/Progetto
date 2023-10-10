@@ -4,7 +4,6 @@ a random choice for the computer, compare the two and print the result. The play
 they choose to stop by writing "quit"."""
 #quack quack quack
 #chip chip chip
-# pio pio pio
 
 # Import the random module
 from random import choice
