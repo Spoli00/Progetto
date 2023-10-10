@@ -3,6 +3,7 @@ Make a rock-paper-scissors game to play against the computer. The game should as
 a random choice for the computer, compare the two and print the result. The player should be able to play again until
 they choose to stop by writing "quit"."""
 #quack quack quack
+#chip chip chip
 
 # Import the random module
 from random import choice
