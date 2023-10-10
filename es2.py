@@ -2,6 +2,7 @@
 Make a rock-paper-scissors game to play against the computer. The game should ask the user for input, generate
 a random choice for the computer, compare the two and print the result. The player should be able to play again until
 they choose to stop by writing "quit"."""
+#quack quack quack
 
 # Import the random module
 from random import choice
